@@ -1,0 +1,117 @@
+.easypack-shipping-method-logo img {
+	max-width: 100px;
+	max-height: 40px;
+	display: block;
+	border:none;
+}
+
+.sheepla-widget-fullscreen {
+	position: fixed;
+}
+
+.inpost_returns_button {
+	background:linear-gradient(#FFE462, #FFA900) #FFE462;
+	border:1px solid #FECB2C;
+	box-shadow:#666666 0 1px 1px;
+	color:#000000  !important;
+	display:inline-block  !important;
+	font-size:18px;
+	letter-spacing:0;
+	line-height:18px;
+	text-decoration:none  !important;
+	text-shadow:#FFFFFF 1px 1px 3px;
+	text-transform:uppercase;
+	border-radius:8px;
+	display:block;
+	font-size:20px;
+	margin:20px auto 0;
+	padding:13px 42px !important;
+}
+
+#selected-parcel-machine {
+
+}
+
+.font-height-600 {
+	font-weight: 600;!important;
+}
+
+.hidden {
+	display: none;!important;
+}
+
+#selected-parcel-machine {
+	min-width: 400px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.easypack-parcel-machine-select {
+	padding-bottom: 120px;
+}
+
+.easypack-shipping-method-logo {
+	/*top: 13px;*/
+	position: relative;
+}
+
+.woocommerce-checkout-review-order-table .easypack-shipping-method-logo {
+	position: relative;
+	top: -3px;
+}
+
+.calculated_shipping .easypack-shipping-method-logo {
+	position: relative;
+	top: -3px;
+}
+
+.apaczka-hidden{
+	display: none;
+}
+
+.apaczka-delivery-point-wrap {
+    display:none;
+}
+
+.button.alt.geowidget_show_map, #geowidget_show_map {
+    border: 0 !important;
+    font-size: 19px !important;
+    box-shadow: 0 15px 30px -18px rgba(0,0,0,90%) !important;
+    color: #fff;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #29bb15;
+    border-radius: 3px;
+    line-height: 1em;
+    padding: 7px 10px 12px 10px;
+    max-width: 200px;
+}
+
+#apaczka_selected_point_data {
+    border: 2px solid #29bb15;
+    border-radius: 5px;
+    padding: 10px;
+    background: #fff;
+}
+
+@media (max-width: 950px) {
+    .apaczkaMapMobileFilterButton {
+        height: 40px !important;
+        float: right;
+        cursor: pointer;
+    }
+
+    .apaczkaMapMobileCloseButton {
+        height: 40px !important;
+        float: right;
+        cursor: pointer;
+    }
+
+    .apaczkaMapMobileLogo {
+        height: 40px !important;
+    }
+}

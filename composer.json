@@ -1,0 +1,8 @@
+{
+	"name": "inspirelabs/apaczka-woocommerce",
+	"autoload": {
+		"psr-4": {
+			"Inspire_Labs\\Apaczka_Woocommerce\\": "src/"
+		}
+	}
+}

@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apaczka.pl\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "General settings"
+msgstr "Ustawienia"
+
+msgid "API settings"
+msgstr "Ustawienia API"
+
+msgid "App ID"
+msgstr "App ID"
+
+msgid "App Secret"
+msgstr "App Secret"
+
+msgid "Company name"
+msgstr "Nazwa firmy"
+
+msgid "First Name"
+msgstr "Imię"
+
+msgid "First name"
+msgstr "Imię"
+
+msgid "Last name"
+msgstr "Nazwisko"
+
+msgid "Street"
+msgstr "Ulica"
+
+msgid "Apartment number"
+msgstr "Nr lokalu"
+
+msgid "Building number"
+msgstr "Nr budynku"
+
+msgid "Postal code"
+msgstr "Kod pocztowy"
+
+msgid "City"
+msgstr "Miasto"
+
+msgid "Contact person"
+msgstr "Osoba kontaktowa"
+
+msgid "Phone"
+msgstr "Nr telefonu"
+
+msgid "Bank account number"
+msgstr "Nr rachunku bankowego"
+
+msgid "Create new sender template?"
+msgstr "Utwórz szablon danych nadawcy"
+
+msgid "New sender template name"
+msgstr "Nazwa szablonu"
+
+msgid "Choose sender template to load"
+msgstr "Wybierz szablon ustawień"
+
+msgid "Load from sender template"
+msgstr "Wczytaj szablon nadawcy"
+
+msgid "Method settings"
+msgstr "Ustawienia metody dostawy"
+
+msgid "Method title"
+msgstr "Nazwa metody dostawy"
+
+msgid "COD method"
+msgstr "Pobranie"
+
+msgid "Declared content"
+msgstr "Deklaracja wartości"
+
+msgid "Default shipping settings"
+msgstr "Domyślne ustawienia przesyłki"
+
+msgid "Service"
+msgstr "Przewoźnik"
+
+msgid "Parcel type"
+msgstr "Typ przesyłki"
+
+msgid "Non standard package"
+msgstr "Przesyłka niestandardowa"
+
+msgid "Insurance"
+msgstr "Ubezpieczenie"
+
+msgid "Shipping method"
+msgstr "Sposób nadania"
+
+msgid "Shipment directly at the point"
+msgstr "Dostawa do punktu"
+
+msgid "Courier pickup request"
+msgstr "Odbiór przesyłki przez kuriera"
+
+msgid "Scheduled Pickups"
+msgstr "Zamówienie kuriera"
+
+msgid "Pickup hour from"
+msgstr "Godzina odbioru od"
+
+msgid "Pickup hour to"
+msgstr "Godzina odbioru do"
+
+msgid "Default dispatch point (InPost)"
+msgstr "Domyślny punkt nadania InPost"
+
+msgid "Default dispatch point (Kurier48)"
+msgstr "Domyślny punkt nadania Poczta Polska"
+
+msgid "Default dispatch point (UPS)"
+msgstr "Domyślny punkt nadania UPS"
+
+msgid "Package properties template"
+msgstr "Szablon parametrów przesyłki"
+
+msgid "Package length [cm]"
+msgstr "Długość"
+
+msgid "number"
+msgstr "numer"
+
+msgid "Package width [cm]"
+msgstr "Szerokość"
+
+msgid "Package height [cm]"
+msgstr "Wysokość"
+
+msgid "Package weight [kg]"
+msgstr "Waga"
+
+msgid "Package width"
+msgstr "Szerokość"
+
+msgid "Package height"
+msgstr "Wysokość"
+
+msgid "Package weight"
+msgstr "Waga"
+
+msgid "Declared contents"
+msgstr "Deklaracja wartości"
+
+msgid "Package contents"
+msgstr "Zawartość przesyłki"
+
+msgid "Create new template from this settings?"
+msgstr "Utwórz nowy szablon przesyłki"
+
+msgid "New template name"
+msgstr "Nazwa szablonu"
+
+msgid "Choose template to load"
+msgstr "Wczytaj szablon przesyłki"
+
+msgid "Box"
+msgstr "Paczka"
+
+msgid "Europalette"
+msgstr "Europaleta"
+
+msgid "Palette 60x80"
+msgstr "Półpaleta 60x80"
+
+msgid "Palette 120x100"
+msgstr "Paleta przemysłowa 120x100"
+
+msgid "Palette 120x120"
+msgstr "Paleta przemysłowa 120x120"
+
+msgid "Get settings from selected template"
+msgstr "Wczytaj szablon"
+
+msgid "Get sender data from selected template"
+msgstr "Wczytaj szablon"
+
+msgid "Select point"
+msgstr "Wybierz punkt"
+
+msgid "Selected Parcel Locker:"
+msgstr "Wybrany Paczkomat"
+
+msgid "Import parcel properties from the template"
+msgstr "Wczytaj szablon przesyłki"
+
+msgid "COD amount"
+msgstr "Wartość pobrania"
+
+msgid "Sender template"
+msgstr "Szablon nadawcy"
+
+msgid "Additional shipment options"
+msgstr "Dodatkowe opcje wysyłki"
+
+msgid "Calculate price"
+msgstr "Wyceń przesyłkę"
+
+msgid "Get data from selected template"
+msgstr "Wstaw do formularza"
+
+msgid "Send"
+msgstr "Wyślij przesyłkę"
+
+msgid "The waybill number is:"
+msgstr "Numer przesyłki to:"
+
+msgid "Get waybill"
+msgstr "Pobierz list przewozowy"
+
+msgid "Cancel parcel"
+msgstr "Anuluj przesyłkę"
+
+msgid "Your order has been placed on apaczka.pl"
+msgstr "Twoje zamówienie zostało złożone na apaczka.pl"
+
+msgid "Dispath point"
+msgstr "Punkt nadawczy"
+
+msgid "Delivery point"
+msgstr "Punkt odbiorczy"
+
+msgid "Delivery point:"
+msgstr "Punkt odbiorczy"
+
+msgid "Apaczka.pl shipping"
+msgstr "Przesyłki Apaczka.pl"
+
+msgid "Unable to get the site structure from API. Make sure credentials are correct."
+msgstr ""
+"Nie można pobrać struktury serwisu z API. Proszę się upewnić, że wprowadzono poprawne "
+"klucze."
+
+msgid "Remove selected sender template"
+msgstr "Usuń wybrany szablon nadawcy"
+
+msgid "Remove selected parcel template"
+msgstr "Usuń wybrany szablon przesyłki"
+
+msgid "Download turn in protocol"
+msgstr "Pobierz protokół nadania"
+
+msgid "Pickup self"
+msgstr "Bez zamawiania podjazdu"
+
+msgid "Sender details"
+msgstr "Domyślne dane nadawcy"
+
+msgid "Change current sender template name"
+msgstr "Zmień nazwę bieżącego szablonu danych nadawcy"
+
+msgid "Change current package template name"
+msgstr "Zmień nazwę bieżącego szablonu danych przesyłki"
+
+msgid "Sender"
+msgstr "Dane nadawcy"
+
+msgid "Receiver"
+msgstr "Dane odbiorcy"
+
+msgid "Country"
+msgstr "Kraj"
+
+msgid "Address line 1"
+msgstr "Adres"
+
+msgid "Address line 2"
+msgstr "Addres c.d."
+
+msgid "Postcode"
+msgstr "Kod pocztowy"
+
+msgid "The Declared Value field must be equal to or higher than the COD amount"
+msgstr ""
+"Pole \"Deklarowana wartość\" musi być równe lub wyższe wartością w stosunku do pobrania"
+
+msgid "The Declared value field cannot be empty"
+msgstr "Pole \"Deklarowana wartość\" nie może być puste"
+
+msgid "Declared value"
+msgstr "Deklarowana wartość"
+
+msgid "Pickup date"
+msgstr "Data odbioru przez kuriera"
+
+msgid "Package depth"
+msgstr "Głębokość"
+
+msgid "Package properties"
+msgstr "Szczegóły przesyłki"
+
+msgid "Get package data from selected template"
+msgstr "Wczytaj szablon"
+
+msgid "Default service"
+msgstr "Domyślna usługa"
+
+msgid "Default package contents"
+msgstr "Domyślna zawartość"
+
+msgid "Default shipping method"
+msgstr "Domyślny sposób nadania"
+
+msgid "Apaczka.pl Delivery Points Map"
+msgstr "Mapa punktów dostawy Apaczka.pl"
+
+msgid "Apaczka.pl Supplier"
+msgstr "Dostawca Apaczka.pl"
+
+msgid "Apaczka.pl only C.O.D points"
+msgstr "Tylko punkty odbioru za pobraniem Apaczka.pl"
+
+msgid "Displays only points with Collect on Delivery."
+msgstr "Wyświetla tylko punkty odbioru za pobraniem."
+
+msgid "Delivery point id"
+msgstr "Punkt odbioru"
+
+msgid "Others:"
+msgstr "Pozostałe:"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "All"
+msgstr "Wszyscy dostawcy"
+
+msgid "Template was deleted"
+msgstr "Szablon został usunięty"
+
+msgid "Parcel locker must be choosen."
+msgstr "Nie można dokończyć zamówienia. Wybierz punkt odbioru przesyłki."
+
+msgid "Deliver the shipment to any shipping point of the selected carrier"
+msgstr "Dostarcz przesyłkę do dowolnego punktu nadania wybranego przewoźnika"
+
+msgid "Default dispatch point DPD"
+msgstr "Domyślny punkt nadania DPD"
+
+msgid "Default dispatch point Orlen Paczka"
+msgstr "Domyślny punkt nadania Orlen Paczka"
+
+msgid "Default dispatch point DHL"
+msgstr "Domyślny punkt nadania DHL"
+
+msgid "Default dispatch point (DPD)"
+msgstr "Domyślny punkt nadania (DPD)"
+
+msgid "Default dispatch point (Orlen Paczka)"
+msgstr "Domyślny punkt nadania (Orlen Paczka)"
+
+msgid "Default dispatch point (DHL)"
+msgstr "Domyślny punkt nadania (DHL)"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Carrier:"
+msgstr "Przewoźnik:"
+
+msgid "Address type"
+msgstr "Typ adresu"
+
+msgid "Company"
+msgstr "Firmowy"
+
+msgid "Private"
+msgstr "Prywatny"
+
+msgid "Problem is occured"
+msgstr "Wystąpił problem"
+
+msgid "The shipment can only be canceled on Apaczka.pl via contact form:"
+msgstr "Wysyłkę można anulować tylko na stronie Apaczka.pl poprzez formularz kontaktowy:"
+
+msgid "Shipping and Delivery -> Cancellation of a pallet and GLS shipment order."
+msgstr "Nadania i Doręczenia -> Anulowanie zlecenia przesyłki paletowej i GLS."
+
+msgid "The cancellation service may incur an additional charge."
+msgstr "Usługa anulowania może wiązać się z dodatkową opłatą."
+
+msgid "%1$sApaczka WooCommerce 2.0 %2$s requires WooCommerce to function."
+msgstr "%1$sApaczka WooCommerce 2.0 %2$s wymaga WooCommerce do działania."
+
+msgid "Comment"
+msgstr "Dodatkowy komentarz"
+
+msgid "Automatically complete the \"Declaration of value\" with the value of the order"
+msgstr "Automatycznie uzupełniaj \"Deklarację wartości\" o wartość zlecenia"
+
+msgid "Debug mode"
+msgstr "Tryb debugowania"
+
+msgid "Log API requests to a log file"
+msgstr "Zapisz żądania API w pliku dziennika"
+
+msgid "Change order status to Completed after shipment created?"
+msgstr "Zmienić status zamówienia na ZREALIZOWANO po wygenerowaniu przesyłki?"
+
+msgid "Delivery point must be chosen!"
+msgstr "Musisz wybrać punkt dostawy!"
+
+msgid "Default way to send a parcel"
+msgstr "Domyślny sposób nadania paczki"
